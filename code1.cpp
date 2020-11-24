@@ -4,6 +4,6 @@ int main()
 {
 	int x;
 	x=10;
-	cout<<x<<"\n";
+	cout<<x<<"\n123123";
 	return 0;
 }
